@@ -17,7 +17,7 @@ OverSampling.py ---> Since the no.of -ve samples >>> no.of +ve samples, we bring
 
 PostMan-Request.flv ---> Small Demo showcasing the JSON response when the request has been hit from Postman
 
-Swagger Documentation.zip ---> Contains the Swagger documentation in Index.html
+Swagger Documentation.zip ---> Contains the Swagger documentation in Sentiment.html
 
 Undersampling.py ---> Since the no.of -ve samples >>> no.of +ve samples, we bring down the no.of -ve samples to that of +ve and then train the data
 
