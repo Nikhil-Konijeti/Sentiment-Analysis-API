@@ -5,7 +5,7 @@ An API endpoint that can accept a text and return associated sentiment with it.
 
 Train.py ---> Training the data after applying the required NLP techniques without any Under or Over sampling using OOPS approach
 
-API.py ---> Uses the saved classifier from the Train.py and Undersampling.py to output the sentiment when request has been hit and to start the server
+API.py ---> Uses the saved classifier from the Train.py and Undersampling.py to output the sentiment when request has been hit and to start the server, used an OOPS approach
 
 API-1.py ---> Uses the saved classifier from the OverSampling.py and EntHire.py to output the sentiment when request has been hit and to start the server
 
