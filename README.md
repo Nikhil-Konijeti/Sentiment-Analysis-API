@@ -13,6 +13,8 @@ EntHire ML+Backend Project.pdf ---> Given task and the Output requirements
 
 EntHire.py ---> Training the data after applying the required NLP techniques without any Under or Over sampling without OOPS approach
 
+finalized_model.sav ---> Saving the classifier in a file without training the data for the future use. 
+
 OverSampling.py ---> Since the no.of -ve samples >>> no.of +ve samples, we bring up the no.of +ve samples to that of -ve and then train the data
 
 PostMan-Request.flv ---> Small Demo showcasing the JSON response when the request has been hit from Postman
