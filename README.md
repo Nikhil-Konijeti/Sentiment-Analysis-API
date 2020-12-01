@@ -30,3 +30,5 @@ request-hit.py ---> This part of code can be used to hit the requests from the I
 tfidfconverter.pickle ---> Pickle file which contained the object of TfidfTransformer
 
 vectorizer.pickle ---> Pickle file which contained the object of CountVectorizer
+
+Training Results.pdf ---> The final metrics for different ML algorithms used
