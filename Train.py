@@ -118,8 +118,8 @@ if __name__ == "__main__":
 
     x = positive_dataset + negative_dataset
     random.shuffle(x)
-    training_set = x[:3726]
-    testing_set = x[3726:]
+    training_set = x[:10000]
+    testing_set = x[10000:]
 
     MNB_classifier = SklearnClassifier(MultinomialNB())
     MNB_classifier.train(training_set)
