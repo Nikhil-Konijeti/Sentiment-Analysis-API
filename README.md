@@ -1,15 +1,22 @@
 # Sentiment-Analysis-API
 Objective:
+  
   You need to create an API endpoint that can accept a text and return associated sentiment with it.
-Dataset
+  
+Dataset:
+
   You can find the training dataset in arline_sentiment_analysis.csv file.
-Project
+  
+Project:
+
   1. Build a binary classification model using any library of your choice.
   2. Develop an API server on python using Pyramid web framework (https://docs.pylonsproject.org/projects/pyramid/en/latest/).
   3. Implement APIs that can accept an english text and respond with the predicted sentiment.
   4. Use OOPs concept to train the model, reading data for training, and implement inference class.
   5. Upload the entire code to a newly created Git Repo.
   6. Integrate Swagger documentation (https://pypi.org/project/pyramid-swagger/) for your Rest API endpoint.
+  7. A small 1 page report on what all models you experimented with, what the final metrics from model training and testing are. Also report what steps you tried to     tune your model.
+  8. A screen recording video where you showcase that you are able to make API calls from your browser or an App like Postman and get a JSON response from your server.
 
 # Files-Description
 
