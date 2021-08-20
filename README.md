@@ -1,11 +1,11 @@
 # Sentiment-Analysis-API
 Objective:
   
-  You need to create an API endpoint that can accept a text and return associated sentiment with it.
+    You need to create an API endpoint that can accept a text and return associated sentiment with it.
   
 Dataset:
 
-  You can find the training dataset in arline_sentiment_analysis.csv file.
+    You can find the training dataset in arline_sentiment_analysis.csv file.
   
 Project:
 
