@@ -26,8 +26,6 @@ API.py ---> Uses the saved classifier from the Train.py and Undersampling.py to 
 
 API-1.py ---> Uses the saved classifier from the OverSampling.py and EntHire.py to output the sentiment when request has been hit and to start the server
 
-EntHire ML+Backend Project.pdf ---> Given task and the Output requirements
-
 EntHire.py ---> Training the data after applying the required NLP techniques without any Under or Over sampling without OOPS approach
 
 finalized_model.sav ---> Saving the classifier in a file, for not training the data in the future. 
